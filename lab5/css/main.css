@@ -1,0 +1,35 @@
+video{
+    margin: auto;
+    display: block;
+    
+    
+
+
+}
+body{
+
+    background-color: deepskyblue;
+}
+
+
+
+header{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+.control{
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin: auto;
+    display: block;
+    background-color: white;
+    
+
+
+
+}
+
+
